@@ -52,11 +52,11 @@ a programming school focused on agile methodologies and mainly on the Hard and S
 	<table display="flex" align="center">
 	<tr><td>
 	<a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-			<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hiago-Vitor&show_icons=true&theme=nightowl" />
+			<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hiago-Vitor&show_icons=true&theme=nightowl&count_private=true" />
 	</a>
 	</td><td>
 	<a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiago-Vitor&count_private=true&layout=compact&theme=nightowl" />
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiago-Vitor&layout=compact&theme=nightowl" />
 	</a>
 	</td></tr>
 	</table>
