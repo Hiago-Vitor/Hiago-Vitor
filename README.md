@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm <b>Hiago</b> 🤓</h1>
+<h1 align="center">Hi there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>, I'm <b>Hiago</b> 🤓</h1>
 <h2><b>About me</b></h2>
 <p>Brazilian, born in Taubaté, SP in 1999, since I was a child I was always curious about computing but I didn't have much access, after serving in the Brazilian Army in 2018 I moved to Maringá, PR with my wife, where I started a college of Analysis and Systems Development, which unfortunately I didn't finish, but luckily, since October 2021 I've been part of <a href="https://www.betrybe.com/" target="blank">Trybe's</a> XP Class,
 a programming school focused on agile methodologies and mainly on the Hard and Soft-Skills required by the job market.</p>
