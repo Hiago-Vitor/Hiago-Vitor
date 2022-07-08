@@ -30,7 +30,7 @@ a programming school focused on agile methodologies and mainly on the Hard and S
 	<img src="https://camo.githubusercontent.com/ff5966ab2cc8c704aecdf9494dcce2a4d8939cf2e1b2f504f8f6431be99c937a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465" alt="Jest" />
 	<img src="https://img.shields.io/badge/sinon.js-90EE90?style=for-the-badge" alt="sinon" />
 	<h3>Database</h3>
-	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+	<!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> -->
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 	<h3>Cloud</h3>
 	<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
